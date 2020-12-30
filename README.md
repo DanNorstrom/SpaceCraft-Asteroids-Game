@@ -1,7 +1,7 @@
 # status
-* requires repo cleaning
-* requires collission particle cost reduction
-* requires reduced image quality to reduce cost
+* requires repo cleaning for presentation
+* requires collission particle system for cost reduction
+* requires reduced image quality for cost reduction
 
 
 # SpaceCraft-Asteroids-Game
